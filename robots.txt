@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://charprop.github.io/sitemap.html.gz
+Sitemap: https://charprop.github.io/app/sitemap.html.gz
+Sitemap: https://charprop.github.io/assets/sitemap.html.gz
+Sitemap: https://charprop.github.io/css/sitemap.html.gz
+Sitemap: https://charprop.github.io/data/sitemap.html.gz
+Sitemap: https://charprop.github.io/includes/sitemap.html.gz
+Sitemap: https://charprop.github.io/item/sitemap.html.gz
+Sitemap: https://charprop.github.io/src/sitemap.html.gz
